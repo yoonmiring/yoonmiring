@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=yoonmirig%20&fontSize=90"/>
-
 <div> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonmiring%2F&count_bg=%233B3B3B&title_bg=%233B3B3B&icon=icq.svg&icon_color=%23E7E7E7&title=today&edge_flat=false"/></a>
 <a href="[https://velog.io/@yoonmiring](https://velog.io/@yoonmiring)" target="_blank"><img src="https://img.shields.io/badge/velog-63e6be?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://blog.naver.com/qndqnddl1109" target="_blank"><img src="https://img.shields.io/badge/blog-00E537?style=flat-square&logo=blog&logoColor=white"/></a>
 </div>
 
-[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=rapaella1109)](https://solved.ac/rapaella1109)
+
+
+[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=rapaella1109)](https://solved.ac/rapaella1109)<br>
 [![yoonmiring's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonmiring)](https://github.com/yoonmiring/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmiring&layout=compact)](https://github.com/yoonmiring/github-readme-stats)
 
