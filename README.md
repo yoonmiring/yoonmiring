@@ -1,4 +1,7 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonmiring&count_bg=%23FF8979&title_bg=%23FF6550&icon=smugmug.svg&icon_color=%23E5E5E5&title=hits&edge_flat=false"/></a>
+<a href="https://blog.naver.com/qndqnddl1109" target="_blank"><img src="https://img.shields.io/badge/blog-green?style=flat-square&logo=blog&logoColor=white"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonmiring&count_bg=%23FF8979&title_bg=%23FF6550&icon=smugmug.svg&icon_color=%23E5E5E5&title=hits&edge_flat=false"/></a><br>
+[![yoonmiring's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonmiring)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 
