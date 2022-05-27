@@ -4,14 +4,10 @@
 <a href="https://blog.naver.com/qndqnddl1109" target="_blank"><img src="https://img.shields.io/badge/blog-00E537?style=flat-square&logo=blog&logoColor=white"/></a>
 </div>
 
-<div align=right>
-  [![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=rapaella1109)](https://solved.ac/rapaella1109)
-</div>
-
-<div align=left>
+[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=rapaella1109)](https://solved.ac/rapaella1109)
 [![yoonmiring's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonmiring)](https://github.com/yoonmiring/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmiring&layout=compact)](https://github.com/yoonmiring/github-readme-stats)
-</div>
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 
