@@ -6,7 +6,7 @@
 
 
 
-[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=rapaella1109)](https://solved.ac/rapaella1109)
+[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=rapaella1109)](https://solved.ac/rapaella1109)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmiring&layout=compact)](https://github.com/yoonmiring/github-readme-stats)<br>
 [![yoonmiring's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonmiring)](https://github.com/yoonmiring/github-readme-stats)
 
