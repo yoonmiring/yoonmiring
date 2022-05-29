@@ -1,18 +1,18 @@
-<div> 
+<div align=center> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonmiring%2F&count_bg=%233B3B3B&title_bg=%233B3B3B&icon=icq.svg&icon_color=%23E7E7E7&title=today&edge_flat=false"/></a>
 <a href="https://velog.io/@yoonmiring" target="_blank"><img src="https://img.shields.io/badge/velog-63e6be?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://blog.naver.com/qndqnddl1109" target="_blank"><img src="https://img.shields.io/badge/blog-00E537?style=flat-square&logo=blog&logoColor=white"/></a>
-</div>
-
-
+<br>
+<br>
+  
+<div align=center><h2>📌 RANK</h2></div>
 
 [![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=rapaella1109)](https://solved.ac/rapaella1109)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmiring&layout=compact)](https://github.com/yoonmiring/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmiring&layout=compact)](https://github.com/yoonmiring/github-readme-stats)
 [![yoonmiring's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonmiring)](https://github.com/yoonmiring/github-readme-stats)
 
 
-
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h2>📚 STACKS</h2></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> 
